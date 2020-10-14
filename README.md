@@ -8,3 +8,7 @@
 
 ## Papers and books
 
+https://github.com/utilForever/rl-paper-study
+https://spinningup.openai.com/en/latest/spinningup/keypapers.html
+https://github.com/junhyukoh/deep-reinforcement-learning-papers
+http://rllab.snu.ac.kr/courses/deeprl_2020/deep-rl-papers
